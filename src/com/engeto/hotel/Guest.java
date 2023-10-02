@@ -42,12 +42,12 @@ public class Guest {
     public String descriptionOfGuest() {
         return firstName+" "+secondName+" ("+birthDate+")";
     }
-/*
+
     @Override
     public String toString() {
         return firstName+" "+secondName+" ("+birthDate+")";
     }
-*/
+
 
 
 
